@@ -72,7 +72,7 @@ DELETE	/api/tasks/{id}	Удалить задачу
   "status": "pending"
 }
 
-✅ Валидация<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/28ce7668-b68c-4081-ace8-7490cbf16240" />
+✅ Валидация
 
 
 title — обязательно, не менее 3 символов
